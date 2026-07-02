@@ -2,6 +2,7 @@
     "name": "vincedom/laravel-queue-rabbitmq",
     "description": "[Fork temporaire] RabbitMQ driver for Laravel Queue. Supports Laravel Horizon.",
     "license": "MIT",
+    "abandoned": "vladimir-yuldashev/laravel-queue-rabbitmq",
     "authors": [
         {
             "name": "Vladimir Yuldashev",
